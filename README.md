@@ -5,4 +5,6 @@ Documentos de Delta Amacuro Travels.
   
   La información de esta página es estática. 
   
+  El archivo que abre la página es homepage.html
+  
   Delta Amacuro Travels. Sueña, Comparte y Disfruta.
