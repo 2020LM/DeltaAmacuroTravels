@@ -1,4 +1,4 @@
-# DeltaAmacuroTravels2
+# DeltaAmacuroTravels
 Documentos de Delta Amacuro Travels.
 
   Este proyecto trata sobre una agencia de viajes ficticia en donde los clientes pueden comprar paquetes para viajar por el mundo y cumplir sus sueños de viajar.
